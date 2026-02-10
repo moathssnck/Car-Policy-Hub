@@ -11,21 +11,21 @@ const bioLinks = [
     title: "التأمين الشامل للسيارات",
     description: "حماية كاملة لسيارتك من جميع المخاطر والحوادث",
     image: carInsurance1,
-    url: "https://mrbcr.site?label=aefb4aaec2082b3fa17bdd7c5941b561"
+    url: "https://gbacre.site?label=aefb4aaec2082b3fa17bdd7c5941b561"
   },
   {
     id: 2,
     title: "       تأمين سيارتك بأفضل الأسعار",
     description: "تأمين شامل يغطي سيارتك  بأمان تام",
     image: carInsurance2,
-    url: "https://mrbcr.site?label=aefb4aaec2082b3fa17bdd7c5941b561"
+    url: "https://gbacre.site?label=aefb4aaec2082b3fa17bdd7c5941b561"
   },
   {
     id: 3,
     title: "تقنيات السلامة المتقدمة",
     description: "استفد من خصومات تأمينية مع تقنيات السلامة الحديثة",
     image: carInsurance3,
-    url: "https://mrbcr.site?label=aefb4aaec2082b3fa17bdd7c5941b561"
+    url: "https://gbacre.site?label=aefb4aaec2082b3fa17bdd7c5941b561"
   },
 ];
 
